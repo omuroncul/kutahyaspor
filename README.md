@@ -8,4 +8,4 @@ HTML ve CSS ile desteklenmiştir.
 
 <h3> Ekran Görüntüsü </h3>
 
-![](screen.gif.mp4)
+![](<img src="screen.gif.mp4")
