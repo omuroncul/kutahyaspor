@@ -2,7 +2,7 @@
 
 Kutahyaspor futbol takımı hakkında bilgi almak ve sporseverleri bilgilendirmek adına yapılmış bir yazılımdır.
 
-<h2> Kullanılan Teknojiler</h2>
+<h2> Kullanılan Teknolojiler</h2>
 
 HTML ve CSS ile desteklenmiştir.
 
